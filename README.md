@@ -1,5 +1,5 @@
-altbuf
-======
+Alternate Buffer
+================
 
 ![Demonstration](demo.gif)
 
